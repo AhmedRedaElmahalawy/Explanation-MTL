@@ -1,1 +1,13 @@
 
+@inproceedings{Marwa,
+author = {Salem, Marwa S. and Ismail, Sally S. and Aref, Mostafa},
+title = {{Personality Traits for Egyptian Twitter Users Dataset}},
+year = {2019},
+isbn = {9781450361057},
+doi = {10.1145/3328833.3328851},
+booktitle = {Proceedings of the 8th International Conference on Software and Information Engineering,},
+pages = {206-–211},
+numpages = {6},
+location = {Cairo, Egypt},
+series = {ICSIE '19}
+}
