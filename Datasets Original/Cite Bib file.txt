@@ -1,0 +1,58 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% AraPersonality  (1)
+@inproceedings{Marwa,
+author = {Salem, Marwa S. and Ismail, Sally S. and Aref, Mostafa},
+title = {{Personality Traits for Egyptian Twitter Users Dataset}},
+year = {2019},
+isbn = {9781450361057},
+doi = {10.1145/3328833.3328851},
+booktitle = {Proceedings of the 8th International Conference on Software and Information Engineering,},
+pages = {206-–211},
+numpages = {6},
+location = {Cairo, Egypt},
+series = {ICSIE '19}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MSAPersonality   (2)
+@article{chraibi2024msapersonality,
+  title={{{MSAPersonality}: A Modern Standard Arabic Dataset for Personality Recognition.}},
+  author={Chraibi, Khaoula and Chaker, Ilham and Dhassi, Younes and Zahi, Azeddine},
+  journal={International Journal of Electrical \& Computer Engineering (2088-8708),},
+  volume={14},
+  number={4},
+  year={2024}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Fused Arabic combine (Arapersonaloity (1) + MSAPersonality   (2))
+@inproceedings{Marwa,
+author = {Salem, Marwa S. and Ismail, Sally S. and Aref, Mostafa},
+title = {{Personality Traits for Egyptian Twitter Users Dataset}},
+year = {2019},
+isbn = {9781450361057},
+doi = {10.1145/3328833.3328851},
+booktitle = {Proceedings of the 8th International Conference on Software and Information Engineering,},
+pages = {206-–211},
+numpages = {6},
+location = {Cairo, Egypt},
+series = {ICSIE '19}
+}
+@article{chraibi2024msapersonality,
+  title={{{MSAPersonality}: A Modern Standard Arabic Dataset for Personality Recognition.}},
+  author={Chraibi, Khaoula and Chaker, Ilham and Dhassi, Younes and Zahi, Azeddine},
+  journal={International Journal of Electrical \& Computer Engineering (2088-8708),},
+  volume={14},
+  number={4},
+  year={2024}
+}
+
+%%%%%%%%%%%%%%%%%%% Essays %%%%%%%%%%%%
+@article{pennebaker1999linguistic,
+  title={{Linguistic Styles: Language Use as An Individual Difference}},
+  author={Pennebaker, James W and King, Laura A},
+  journal={Journal of Personality and Social Psychology,},
+  volume={77},
+  number={6},
+  pages={1296},
+  year={1999},
+  publisher={American Psychological Association},
+  doi={10.1037/0022-3514.77.6.1296},
+}
